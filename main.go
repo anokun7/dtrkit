@@ -1,9 +1,9 @@
 package main
 
 import (
-  "dtrkit/util"
+  "dtrkit/dtr"
 )
 
 func main() {
-  util.ShowRepos()
+  dtr.ShowRepos()
 }
