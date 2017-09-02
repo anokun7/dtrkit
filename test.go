@@ -1,7 +1,7 @@
 package main
 
 import (
-  "github.com/anokun7/dtrkit/util"
+  "dtrkit/util"
 )
 
 func main() {
