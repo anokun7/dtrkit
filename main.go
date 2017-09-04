@@ -5,9 +5,9 @@ import (
 )
 
 func main() {
-//dtr.GetRepos()
-//dtr.GetOrgs()
-  dtr.GetTeamsRepoAccess()
+	dtr.GetRepos()
+	dtr.GetOrgs()
+	dtr.GetTeamsRepoAccess()
 
 	//  dtr.GetOrgs(dtr URL)
 	//  dtr.GetRepos(dtr URL)
